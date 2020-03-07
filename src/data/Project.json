@@ -1,11 +1,11 @@
 [
   {
-    "name": "Project One",
-    "url": "https://example.com",
-    "technologies": ["Nuxt.js", "Bootstrap CSS", "GSAP"],
-    "start": "2018-10-15",
-    "end": "2020-01-15",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "name": "Ugly Dog Store",
+    "url": "http://uglydogstore.surge.sh/",
+    "technologies": ["React.js", "SCSS", "ESlint"],
+    "start": "2020-02-01",
+    "end": "2020-02-15",
+    "description": "Build out of E-commerce site "
   },
   {
     "name": "Project Two",
