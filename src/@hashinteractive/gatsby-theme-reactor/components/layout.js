@@ -9,6 +9,7 @@ import Footer from './footer';
 const Layout = ({ children }) => (
   <>
     <Helmet>
+      <title>Rob Gonzalez-Pita</title>
       <link rel='icon' href={'/images/favicon.ico'} />
       <link
         rel='icon'

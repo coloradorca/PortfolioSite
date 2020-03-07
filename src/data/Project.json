@@ -8,17 +8,17 @@
     "description": "Build out of E-commerce site "
   },
   {
-    "name": "Project Two",
+    "name": "Coffee Finder",
     "url": "https://example.com",
-    "technologies": ["Nuxt.js", "Firebase", "Bulma CSS"],
+    "technologies": ["React Native", "Expo"],
     "start": "2018-10-15",
     "end": "2020-01-15",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
   {
-    "name": "Project Three",
+    "name": "Crypto Charter",
     "url": "https://example.com",
-    "technologies": ["Nuxt.js", "Strapi.io", "Tailwind CSS"],
+    "technologies": ["react.js", "Tailwind CSS"],
     "start": "2018-10-15",
     "end": "2020-01-15",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
