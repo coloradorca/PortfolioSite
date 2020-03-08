@@ -1,8 +1,8 @@
 {
   "name": "Rob Gonzalez-Pita",
   "greeting": "The guy who you've been looking for",
-  "title": "Full Stack Software Engineer",
-  "description": "Well I could go on and on about myself, but I'll spare you the details... ",
+  "title": "Software Engineer",
+  "description": "I love to solve problems: whether its strategic planning and execution of technical alpine climbs, felling hazard trees working as a Wildland Firefighter, or approaching a new software engineering challenge, I'm most comfortable in the process of deriving a solution.",
   "social": [
     {
       "name": "Github",
@@ -22,23 +22,25 @@
     }
   ],
   "skills": [
-    "react.js",
     "javascript",
+    "react.js",
     "mongo",
     "postgres",
-    "adobe illustrator",
-    "adobe photoshop",
+    "SQL",
     "sass",
-    "mysql",
     "eslint",
-    "jest",
+    "AWS",
     "react-native",
     "mobile",
-    "web",
-    "SQL",
-    "docker",
-    "linux",
-    "bash"
+    "Node.js",
+    "git",
+    "bash",
+    "Webpack",
+    "jest",
+    "Mocha",
+    "Chai",
+    "jQuery",
+    "Babel"
   ],
   "location": "Boulder CO",
   "email": "gonzalrm@gmail.com",
