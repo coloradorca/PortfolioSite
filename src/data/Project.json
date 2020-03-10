@@ -2,25 +2,25 @@
   {
     "name": "Ugly Dog Store",
     "url": "http://uglydogstore.surge.sh/",
-    "technologies": ["React.js", "SCSS", "ESlint"],
+    "technologies": ["React.js", "SCSS", "webpack"],
     "start": "2020-02-01",
     "end": "2020-02-15",
-    "description": "Build out of E-commerce site"
+    "description": "Build out of the Ugly Dog e-commerce site from scratch.  With a team of other engineers, I crafted the Product Overview Module which is linked below. I created a server using Node.js, and a populated a PostgreSQL database with a legacy codebase.  Ultimately deployed server and database on two seperate AWS EC2 instances."
   },
   {
     "name": "Coffee Finder",
-    "url": "https://example.com",
+    "url": "https://github.com/coloradorca/CoffeeFinder",
     "technologies": ["React Native", "Expo"],
-    "start": "2018-10-15",
-    "end": "2020-01-15",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "start": "2020-3-01",
+    "end": "2020-03-05",
+    "description": "Simple mobile application that allows users to search for coffee shops based on loaction.  The app provides detailed information on each shop, with the functionality to call or get directions to the chosen coffee shop directly from the app."
   },
   {
     "name": "Crypto Charter",
-    "url": "https://example.com",
-    "technologies": ["react.js", "Tailwind CSS"],
-    "start": "2018-10-15",
-    "end": "2020-01-15",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "url": "https://github.com/coloradorca/cryptocharter-/tree/master/cryptocharter",
+    "technologies": ["React", "Chart.js", "Tailwind CSS"],
+    "start": "2020-02-20",
+    "end": "2020-03-01",
+    "description": "A single page site which displays the previous 30 days closing price of cryptocurrencies."
   }
 ]
