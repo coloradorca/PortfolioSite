@@ -1,17 +1,17 @@
 [
   {
     "name": "Ugly Dog Store",
-    "url": "http://uglydogstore.surge.sh/",
-    "technologies": ["React.js", "SCSS", "webpack"],
+    "url": "https://github.com/coloradorca/UglyDog-Products",
+    "technologies": ["React", "PostgreSQL", "AWS"],
     "start": "2020-02-01",
     "end": "2020-02-15",
-    "description": "Build out of the Ugly Dog e-commerce site from scratch.  With a team of other engineers, I crafted the Product Overview Module which is linked below. I created a server using Node.js, and a populated a PostgreSQL database with a legacy codebase.  Ultimately deployed server and database on two seperate AWS EC2 instances."
+    "description": "Full stack website.  With a team of other engineers, I crafted the Product Overview Module for the front end. I created a server using Node.js, and populated a PostgreSQL database with a legacy codebase.  Ultimately deployed server and database on two seperate AWS EC2 instances."
   },
   {
     "name": "Coffee Finder",
     "url": "https://github.com/coloradorca/CoffeeFinder",
     "technologies": ["React Native", "Expo"],
-    "start": "2020-3-01",
+    "start": "2020-03-01",
     "end": "2020-03-05",
     "description": "Simple mobile application that allows users to search for coffee shops based on loaction.  The app provides detailed information on each shop, with the functionality to call or get directions to the chosen coffee shop directly from the app."
   },
@@ -21,6 +21,6 @@
     "technologies": ["React", "Chart.js", "Tailwind CSS"],
     "start": "2020-02-20",
     "end": "2020-03-01",
-    "description": "A single page site which displays the previous 30 days closing price of cryptocurrencies."
+    "description": "A single page site which displays the last 30 days closing prices of cryptocurrencies."
   }
 ]
