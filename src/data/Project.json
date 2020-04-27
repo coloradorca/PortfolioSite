@@ -1,5 +1,13 @@
 [
   {
+    "name": "Selenium Auto Apply",
+    "url": "https://medium.com/@gonzalrm/selenium-webdriver-auto-apply-62a8d9ad1274",
+    "technologies": ["Javascript", "Selenium"],
+    "start": "2020-04-02",
+    "end": "2020-04-21",
+    "description": "Automate Job Applications for position listings on Angel.co using Selenium WebDriver. The aggregated position listings on job boards are a perfect place to apply for each job methodically and sequentially. Selenium WebDriver Auto Apply is a program that automates filtering search criteria, sending a note to a hiring manager, and clicking the submit button."
+  },
+  {
     "name": "Ugly Dog Store",
     "url": "https://github.com/coloradorca/UglyDog-Products",
     "technologies": ["React", "PostgreSQL", "AWS"],

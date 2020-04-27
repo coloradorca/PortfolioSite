@@ -2,7 +2,7 @@
   "name": "Rob Gonzalez-Pita",
   "greeting": "Wildland Firefighter turned Full Stack Software Developer.",
   "title": "Software Engineer",
-  "description": "I love to solve problems: whether its strategic planning and execution of technical alpine climbs, felling hazard trees working as a Wildland Firefighter, or approaching a new software engineering challenge, I'm most comfortable in the process of deriving a solution.",
+  "description": "I love to solve problems: whether its strategic planning and execution of technical alpine climbs, felling hazard trees working as a Wildland Firefighter, or approaching a new software engineering challenge, I'm most comfortable in the process of deriving a solution.  I have experience building full stack applications with the ability to create servers, databases and dynamic front end interfaces. With my ability to learn and adapt quickly, effectively communicate, and lead teams, I’m looking to fill the role of a Software Engineer.",
   "social": [
     {
       "name": "Github",
@@ -22,20 +22,20 @@
     }
   ],
   "skills": [
-    "javascript",
-    "react.js",
-    "mongo",
-    "postgres",
-    "SQL",
-    "Sass",
-    "eslint",
-    "AWS",
-    "react-native",
-    "mobile",
+    "Javascript",
+    "React.js",
+    "MongoDB",
+    "PostgreSQL",
+    "Bash",
+    "React-Native",
     "Node.js",
-    "express.js",
+    "Express.js",
+    "Selenium",
+    "Sass",
+    "AWS",
+    "mobile",
     "git",
-    "bash",
+    "eslint",
     "Webpack",
     "jest",
     "Mocha",
@@ -43,7 +43,7 @@
     "jQuery",
     "Babel"
   ],
-  "location": "Boulder CO",
+  "location": "Boulder, Colorado",
   "email": "gonzalrm@gmail.com",
   "phone": "(479) 200-9228"
 }
