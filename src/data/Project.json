@@ -1,5 +1,14 @@
 [
   {
+    "name": "Coronavirus Project",
+    "url": "http://coronavirusproject.surge.sh/",
+    "technologies": ["React","ArcGIS Javascript API", "Chart.js"],
+    "start": "2020-05-15",
+    "end": "2020-05-22",
+    "description": "An interactive map showing world Coronavirus statistics."
+  },
+  {
+
     "name": "Selenium Auto Apply",
     "url": "https://medium.com/@gonzalrm/selenium-webdriver-auto-apply-62a8d9ad1274",
     "technologies": ["Javascript", "Selenium"],
