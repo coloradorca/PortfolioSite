@@ -10,7 +10,7 @@ const icons = {
   github: Github,
   linkedin: LinkedIn,
   twitter: Twitter,
-  stackoverflow: StackOverflow,
+  // stackoverflow: StackOverflow,
 };
 
 const Subnav = () => {
@@ -93,7 +93,7 @@ const Subnav = () => {
                     display: 'inline-block',
                     verticalAlign: 'middle',
                   }}></span>
-                <span sx={{ verticalAlign: 'middle' }}>Connect with me</span>
+                <span sx={{ verticalAlign: 'middle' }}>Connect</span>
                 <span
                   sx={{
                     bg: (theme) => theme.colors.gray[3],
@@ -114,7 +114,7 @@ const Subnav = () => {
                   sx={{
                     listStyle: 'none',
                     p: 0,
-                    justifyContent: ['flext-start', 'flex-end'],
+                    justifyContent: ['flex-end'],
                   }}
                   as='ul'>
                   {social.map(({ name, url }) => {
