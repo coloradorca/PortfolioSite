@@ -18,10 +18,10 @@ const Profile = () => {
     }
   `);
   const profile = allFile.edges.find(
-    ({ node: { name } }) => name === 'profile',
+    ({ node: { name } }) => name === 'profile1',
   );
   const profileAlt = allFile.edges.find(
-    ({ node: { name } }) => name === 'profile-alt',
+    ({ node: { name } }) => name === 'profile-alt1',
   );
 
   const [publicURL, setPublicURL] = useState(profile.node.publicURL);
