@@ -30,7 +30,7 @@
     "technologies": ["React Native", "Expo"],
     "start": "2020-03-01",
     "end": "2020-03-05",
-    "description": "Simple mobile application that allows users to search for coffee shops based on loaction.  The app provides detailed information on each shop, with the functionality to call or get directions to the chosen coffee shop directly from the app."
+    "description": "Simple mobile application that allows users to search for coffee shops based on location.  The app provides detailed information on each shop, with the functionality to call or get directions to the chosen coffee shop directly from the app."
   },
   {
     "name": "Crypto Charter",
